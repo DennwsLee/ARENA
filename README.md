@@ -53,4 +53,4 @@ Some highlights from this chapter include:
 * Implementing a Deep Q-Network (DQN) and Proximal Policy Optimization (PPO) to play the CartPole game
 * Applying RLHF to autoregressive transformers like the ones you built in the previous chapter
 
-Additionally, the later exercise sets include a lot of suggested bonus material / further exploration once you've finished, including suggested papers to read and replicate
+Additionally, the later exercise sets include a lot of suggested bonus material / further exploration once you've finished, including suggested papers to read and replicate.
